@@ -1,0 +1,12 @@
+Correct data
+==> 123456789 
+==> 000000000 
+==> 490067719 
+==> 711111111 
+==> 333393333 
+Err data
+==> 222222222  ERR
+==> 888888888  ERR
+Ilegit Number
+==> No data found  ILL
+Ambiguos number
